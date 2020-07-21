@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/auth-react/static/css/main.6b0d1ee6.chunk.css",
+    "main.js": "/auth-react/static/js/main.8eca05ea.chunk.js",
+    "main.js.map": "/auth-react/static/js/main.8eca05ea.chunk.js.map",
+    "runtime-main.js": "/auth-react/static/js/runtime-main.102457e8.js",
+    "runtime-main.js.map": "/auth-react/static/js/runtime-main.102457e8.js.map",
+    "static/js/2.4a0c96f5.chunk.js": "/auth-react/static/js/2.4a0c96f5.chunk.js",
+    "static/js/2.4a0c96f5.chunk.js.map": "/auth-react/static/js/2.4a0c96f5.chunk.js.map",
+    "index.html": "/auth-react/index.html",
+    "precache-manifest.b081dc086c0945c897db0228ee7fd776.js": "/auth-react/precache-manifest.b081dc086c0945c897db0228ee7fd776.js",
+    "service-worker.js": "/auth-react/service-worker.js",
+    "static/css/main.6b0d1ee6.chunk.css.map": "/auth-react/static/css/main.6b0d1ee6.chunk.css.map",
+    "static/js/2.4a0c96f5.chunk.js.LICENSE.txt": "/auth-react/static/js/2.4a0c96f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.102457e8.js",
+    "static/js/2.4a0c96f5.chunk.js",
+    "static/css/main.6b0d1ee6.chunk.css",
+    "static/js/main.8eca05ea.chunk.js"
+  ]
+}
